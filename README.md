@@ -8,3 +8,4 @@ The App is a fullstack MERN app built using:
 - React
 - NodeJs
 - Redux
+- JWT
